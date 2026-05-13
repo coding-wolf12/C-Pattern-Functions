@@ -17,6 +17,7 @@ void patternA(int n)
     }
 }
 
+
 void patternB(int n)
 // *
 // * *
@@ -32,6 +33,7 @@ void patternB(int n)
         cout << endl;
     }
 }
+
 
 void patternC(int n)
 // 1
@@ -51,6 +53,7 @@ void patternC(int n)
     }
 }
 
+
 void patternD(int n)
 // 1
 // 2 2
@@ -66,6 +69,7 @@ void patternD(int n)
         cout << endl;
     }
 }
+
 
 void patternE(int n)
 // A
@@ -85,6 +89,7 @@ void patternE(int n)
     }
 }
 
+
 void patternF(int n)
 // A
 // BB
@@ -100,6 +105,8 @@ void patternF(int n)
         cout << endl;
     }
 }
+
+
 void patternG(int n)
 // * * * *
 // * * *
@@ -115,6 +122,7 @@ void patternG(int n)
         cout << endl;
     }
 }
+
 
 void patternH(int n)
 // 1234
@@ -134,6 +142,7 @@ void patternH(int n)
     }
 }
 
+
 void patternI(int n) // Floyd Series
 // 1
 // 23
@@ -151,6 +160,7 @@ void patternI(int n) // Floyd Series
         cout << endl;
     }
 }
+
 
 void patternJ(int n)
 //    *
@@ -176,6 +186,7 @@ void patternJ(int n)
     }
 }
 
+
 void patternK(int n)
 // *******
 //  *****
@@ -199,6 +210,8 @@ void patternK(int n)
         cout << endl;
     }
 }
+
+
 void patternL(int n)
 //    *
 //   ***
@@ -242,6 +255,8 @@ void patternL(int n)
         cout << endl;
     }
 }
+
+
 void patternM(int n)
 // *      *
 // **    **
@@ -293,6 +308,8 @@ void patternM(int n)
         cout << endl;
     }
 }
+
+
 int main()
 {
     // patternA(4);
